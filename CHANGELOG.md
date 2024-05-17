@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2024-05-17)
+
+
+### Features
+
+* Added feature 1 ([6480bba](https://github.com/MABIGMAC/BaseDerivedRepo1/commit/6480bbac649e23b5f0f12acf2622059805d6dece))
+
 ## 1.0.0 (2024-05-09)
 
 
