@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/MABIGMAC/BaseDerivedRepo1/compare/v1.0.0...v1.1.0) (2024-05-17)
+
+
+### Features
+
+* Added test ([ec07bc1](https://github.com/MABIGMAC/BaseDerivedRepo1/commit/ec07bc1b5efdf256e3c2811be364692ae18eaac0))
+
 ## 1.0.0 (2024-05-17)
 
 
