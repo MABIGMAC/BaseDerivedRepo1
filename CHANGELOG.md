@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.0](https://github.com/MABIGMAC/BaseDerivedRepo1/compare/v1.1.0...v1.2.0) (2024-05-17)
+
+
+### Features
+
+* Added feature 1 ([6480bba](https://github.com/MABIGMAC/BaseDerivedRepo1/commit/6480bbac649e23b5f0f12acf2622059805d6dece))
+* Added test ([ec07bc1](https://github.com/MABIGMAC/BaseDerivedRepo1/commit/ec07bc1b5efdf256e3c2811be364692ae18eaac0))
+* Test added ([0e5aff6](https://github.com/MABIGMAC/BaseDerivedRepo1/commit/0e5aff6658e5879f1d2d42458cdbbade350d256e))
+
 ## [1.1.0](https://github.com/MABIGMAC/BaseDerivedRepo1/compare/v1.0.0...v1.1.0) (2024-05-17)
 
 
